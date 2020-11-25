@@ -6,6 +6,14 @@ This project was generated with Visual Studio.
 
 The Angular project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
+## Resources
+
+These resources helped me successfully create this application.
+
+https://passos.com.au/push-notifications-angular-net-core/
+
+https://github.com/thiagospassos/push-notification-angular-dotnet-core
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
